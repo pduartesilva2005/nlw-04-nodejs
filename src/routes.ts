@@ -1,7 +1,7 @@
 import { Router } from "express";
 import { UserController } from "./controllers/UserController";
 import { SurveyController } from "./controllers/SurveyController";
-import { SendMailController } from "./controllers/SendmailController";
+import { SendMailController } from "./controllers/SendMailController";
 import { AnswersController } from "./controllers/AnswersController";
 import { NpsController } from "./controllers/NpsController";
 
