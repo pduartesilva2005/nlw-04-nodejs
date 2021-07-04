@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 
 ## 🚀 Como executar
 
-- Clone o repositório `git clone https://github.com/pedroduarte2005/nlw-04-nodejs.git`
+- Clone o repositório `git clone https://github.com/pduartesilva2005/nlw-04-nodejs.git`
 - Instale as dependências com `yarn` ou `npm install`
 - Inicie o servidor com `yarn dev` ou `npm run dev`
 
